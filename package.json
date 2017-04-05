@@ -1,0 +1,33 @@
+{
+  "name": "unenvify",
+  "version": "0.0.0",
+  "description": "Replacement Shell/Environment Variable in String",
+  "license": "MIT",
+  "repository": "ragingwind/unenvify",
+  "author": {
+    "name": "ragingwind",
+    "email": "ragingwind@gmail.com",
+    "url": "ragingwind.me"
+  },
+  "engines": {
+    "node": ">=4"
+  },
+  "scripts": {
+    "test": "xo && ava"
+  },
+  "files": [
+    "index.js"
+  ],
+  "keywords": [
+    "env",
+    "shell",
+    "variable",
+    "replacement",
+    "tify"
+  ],
+  "dependencies": {},
+  "devDependencies": {
+    "ava": "^0.17.0",
+    "xo": "^0.17.0"
+  }
+}
