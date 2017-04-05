@@ -1,6 +1,6 @@
 {
   "name": "unenvify",
-  "version": "0.0.0",
+  "version": "0.1.0",
   "description": "Replacement Shell/Environment Variable in String",
   "license": "MIT",
   "repository": "ragingwind/unenvify",
